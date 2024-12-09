@@ -1,6 +1,6 @@
 Summary:
 
-1. n Java, upcasting refers to the process of converting a subclass object to a superclass type,allowing access to the methods and properties defined in the superclass.
+1. In Java, upcasting refers to the process of converting a subclass object to a superclass type,allowing access to the methods and properties defined in the superclass.
     Downcasting is the reverse operation, where a superclass reference is cast to a subclass type, but it requires an explicit cast and can throw a ClassCastException if the object is not actually an instance of the subclass.
 
 2. Polymorphism in Java is when one method can work with different types of objects, allowing the same method to behave differently depending on the object’s actual class.
